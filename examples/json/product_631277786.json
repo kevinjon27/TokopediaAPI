@@ -1,0 +1,123 @@
+{
+  "data": {
+    "getPDPInfo": {
+      "basic": {
+        "id": 631277786,
+        "shopID": 7152391,
+        "name": "Xiaomi Redmi 8 4/64 Garansi Resmi Indonesia 4GB 64GB - Hitam",
+        "alias": "xiaomi-redmi-8-4-64-garansi-resmi-indonesia-4gb-64gb-hitam",
+        "price": 1899000,
+        "priceCurrency": "IDR",
+        "lastUpdatePrice": "15-12-2019, 21:58 WIB",
+        "description": "Ready HITAM, BIRU, MERAH\nORDER > LANGSUNG PROSES KIRIM\n\n- Garansi resmi xiaomi indonesia 2 tahun\n- 100% ORIGINAL\n- BARU, SEGEL, NO REPACK\n- IMEI TERDAFTAR\n\nCek IMEI:\nhttps://imei.kemenperin.go.id/\nhttp://buy.mi.com/id/registration\n\nAyo ayo order gan DIJAMIN ORI dan RESMI\n(Packing AMAN free bubble wrap TEBEL)\n\nXiaomi Redmi 8 RAM 4GB 64GB",
+        "minOrder": 1,
+        "maxOrder": 0,
+        "status": "ACTIVE",
+        "weight": 500,
+        "weightUnit": "GRAM",
+        "condition": "NEW",
+        "url": "https://www.tokopedia.com/randangshop/xiaomi-redmi-8-4-64-garansi-resmi-indonesia-4gb-64gb-hitam",
+        "isKreasiLokal": false,
+        "isMustInsurance": true,
+        "isEligibleCOD": false,
+        "catalogID": 0,
+        "needPrescription": false,
+        "isLeasing": false
+      },
+      "brand": {
+        "brandID": "0",
+        "isActive": false,
+        "brandStatus": 0,
+        "name": ""
+      },
+      "menu": {
+        "menuID": "22047107",
+        "name": "Smartphone",
+        "url": "https://www.tokopedia.com/randangshop/etalase/smartphone"
+      },
+      "category": {
+        "id": "3054",
+        "name": "Android OS",
+        "title": "Android OS",
+        "breadcrumbURL": "https://www.tokopedia.com/p/handphone-tablet/handphone/android-os",
+        "isAdult": false,
+        "detail": [
+          {
+            "id": "65",
+            "name": "Handphone & Tablet",
+            "breadcrumbURL": "https://www.tokopedia.com/p/handphone-tablet"
+          },
+          {
+            "id": "24",
+            "name": "Handphone",
+            "breadcrumbURL": "https://www.tokopedia.com/p/handphone-tablet/handphone"
+          },
+          {
+            "id": "3054",
+            "name": "Android OS",
+            "breadcrumbURL": "https://www.tokopedia.com/p/handphone-tablet/handphone/android-os"
+          }
+        ]
+      },
+      "preorder": {
+        "isActive": false,
+        "duration": 0,
+        "timeUnit": "UNKNOWN"
+      },
+      "wholesale": [],
+      "campaign": {
+        "campaignID": "",
+        "campaignType": 0,
+        "campaignTypeName": "",
+        "percentageAmount": 0,
+        "originalPrice": 0,
+        "discountedPrice": 0,
+        "stock": 0,
+        "isActive": false,
+        "startDate": "0001-01-01T00:00:00Z",
+        "endDate": "0001-01-01T00:00:00Z",
+        "endDateUnix": -2006079856,
+        "appLinks": "",
+        "hideGimmick": false
+      },
+      "cashback": {
+        "percentage": 0
+      },
+      "stats": {
+        "countView": 76,
+        "countReview": 0,
+        "countTalk": 0,
+        "rating": 0
+      },
+      "txStats": {
+        "txSuccess": 0,
+        "txReject": 0,
+        "itemSold": 0
+      },
+      "videos": [],
+      "variant": {
+        "parentID": "631277785",
+        "isVariant": true
+      },
+      "stock": {
+        "useStock": true,
+        "value": 1,
+        "stockWording": "<b>Stok hampir habis!</b> Tersisa &lt;5"
+      },
+      "media": [
+        {
+          "type": "image",
+          "URLOriginal": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/12/15/631277785/631277785_d4878d0c-830f-4cba-b503-d0386e2a8bbc_1496_1496.jpg",
+          "URLThumbnail": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/12/15/631277785/631277785_d4878d0c-830f-4cba-b503-d0386e2a8bbc_1496_1496.jpg",
+          "Description": "",
+          "VideoURLIOS": "",
+          "IsAutoplay": false
+        }
+      ],
+      "freeOngkir": {
+        "isActive": true,
+        "imgURL": "https://ecs7.tokopedia.net/img/ic_bebas_ongkir.png"
+      }
+    }
+  }
+}

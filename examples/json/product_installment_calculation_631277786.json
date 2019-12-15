@@ -1,0 +1,972 @@
+{
+  "data": {
+    "ft_installment_calculation": {
+      "data": {
+        "credit_card": [
+          {
+            "partner_code": "001",
+            "partner_name": "ANZ",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/anz.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "002",
+            "partner_name": "BCA",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/bca.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 1000000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "003",
+            "partner_name": "BNI",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/bni.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "004",
+            "partner_name": "BRI",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/bri.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 1000000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              },
+              {
+                "term": 18,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 3000000,
+                "maximum_amount": 0,
+                "monthly_price": 110775,
+                "os_monthly_price": 110775
+              },
+              {
+                "term": 24,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 3000000,
+                "maximum_amount": 0,
+                "monthly_price": 83082,
+                "os_monthly_price": 83082
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "005",
+            "partner_name": "Bukopin",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/bukopin.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 1000000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 1500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "006",
+            "partner_name": "CIMB Niaga",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/cimb.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "007",
+            "partner_name": "Citibank",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/citibank.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "008",
+            "partner_name": "Danamon",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/danamon.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "009",
+            "partner_name": "HSBC",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/hsbc.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "010",
+            "partner_name": "Mandiri",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/mandiri.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "011",
+            "partner_name": "Maybank",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/maybank.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 1000000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 1000000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "012",
+            "partner_name": "MNC Bank",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/mnc.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "013",
+            "partner_name": "OCBC NISP",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/ocbc.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "014",
+            "partner_name": "Panin",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/panin.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "015",
+            "partner_name": "Permata",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/permata-bank.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 1000000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 1000000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 1000000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "016",
+            "partner_name": "Standard Chartered",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/standard-chartered.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          },
+          {
+            "partner_code": "017",
+            "partner_name": "UOB",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/uob.png",
+            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
+            "tnc_id": 3,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 2.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 648825,
+                "os_monthly_price": 648825
+              },
+              {
+                "term": 6,
+                "mdr_value": 3.5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 327578,
+                "os_monthly_price": 327578
+              },
+              {
+                "term": 12,
+                "mdr_value": 5,
+                "mdr_type": "%",
+                "interest_rate": 0,
+                "minimum_amount": 500000,
+                "maximum_amount": 0,
+                "monthly_price": 166163,
+                "os_monthly_price": 166163
+              }
+            ],
+            "instruction_list": []
+          }
+        ],
+        "non_credit_card": [
+          {
+            "partner_code": "OPL",
+            "partner_name": "OVO PayLater",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/opl.png",
+            "partner_url": "https://www.tokopedia.com/ovo-paylater/",
+            "tnc_id": 1,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 1.5,
+                "mdr_type": "%",
+                "interest_rate": 2.9,
+                "minimum_amount": 150000,
+                "maximum_amount": 10000000,
+                "monthly_price": 697566,
+                "os_monthly_price": 697566
+              },
+              {
+                "term": 6,
+                "mdr_value": 1.5,
+                "mdr_type": "%",
+                "interest_rate": 2.9,
+                "minimum_amount": 300000,
+                "maximum_amount": 10000000,
+                "monthly_price": 376319,
+                "os_monthly_price": 376319
+              },
+              {
+                "term": 9,
+                "mdr_value": 1.5,
+                "mdr_type": "%",
+                "interest_rate": 2.9,
+                "minimum_amount": 450000,
+                "maximum_amount": 10000000,
+                "monthly_price": 269236,
+                "os_monthly_price": 269236
+              },
+              {
+                "term": 12,
+                "mdr_value": 1.5,
+                "mdr_type": "%",
+                "interest_rate": 2.9,
+                "minimum_amount": 600000,
+                "maximum_amount": 10000000,
+                "monthly_price": 215695,
+                "os_monthly_price": 215695
+              }
+            ],
+            "instruction_list": [
+              {
+                "order": 1,
+                "description": "Masuk halaman OVO PayLater dan lengkapi formulir pendaftarannya.",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/ic-onboarding-1.png"
+              },
+              {
+                "order": 2,
+                "description": "Tunggu paling lama 24 jam hingga OVO PayLater-mu aktif.",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/ic-onboarding-2.png"
+              },
+              {
+                "order": 3,
+                "description": "Cari barang yang ingin kamu beli, lalu bayar dengan OVO PayLater",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/ic-onboarding-3.png"
+              },
+              {
+                "order": 4,
+                "description": "Yay, barang akan otomatis terbayar!",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/ic-onboarding-4.png"
+              }
+            ]
+          },
+          {
+            "partner_code": "KDV",
+            "partner_name": "Kredivo",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/kredivo/kredivo.png",
+            "partner_url": "https://www.tokopedia.com/discovery/finansial-kredivo",
+            "tnc_id": 2,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 1.5,
+                "mdr_type": "%",
+                "interest_rate": 2,
+                "minimum_amount": 1000000,
+                "maximum_amount": 20000000,
+                "monthly_price": 680475,
+                "os_monthly_price": 680475
+              },
+              {
+                "term": 6,
+                "mdr_value": 1.5,
+                "mdr_type": "%",
+                "interest_rate": 2,
+                "minimum_amount": 1000000,
+                "maximum_amount": 20000000,
+                "monthly_price": 359228,
+                "os_monthly_price": 359228
+              },
+              {
+                "term": 12,
+                "mdr_value": 1.5,
+                "mdr_type": "%",
+                "interest_rate": 2,
+                "minimum_amount": 1000000,
+                "maximum_amount": 20000000,
+                "monthly_price": 198604,
+                "os_monthly_price": 198604
+              }
+            ],
+            "instruction_list": [
+              {
+                "order": 1,
+                "description": "Belanja min. Rp1 juta dan pilih Kredivo sebagai metode pembayaran.",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/kredivo/ic-onboarding-1.png"
+              },
+              {
+                "order": 2,
+                "description": "Jika punya akun Kredivo, kamu akan diarahkan ke aplikasi Kredivo. Login dan barang akan otomatis terbayar.",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/kredivo/ic-onboarding-2-1.png"
+              },
+              {
+                "order": 3,
+                "description": "Jika belum punya akun, kamu bisa registrasi dulu di aplikasi Kredivo. Setelah akunmu aktif, barang akan otomatis terbayar!",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/kredivo/ic-onboarding-2-2.png"
+              }
+            ]
+          },
+          {
+            "partner_code": "HCI",
+            "partner_name": "Home Credit Indonesia",
+            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/hci/hci.png",
+            "partner_url": "https://www.tokopedia.com/discovery/finansial-hci",
+            "tnc_id": 2,
+            "installment_list": [
+              {
+                "term": 3,
+                "mdr_value": 99000,
+                "mdr_type": "Rp",
+                "interest_rate": 2.99,
+                "minimum_amount": 1000000,
+                "maximum_amount": 10000000,
+                "monthly_price": 727781,
+                "os_monthly_price": 727781
+              },
+              {
+                "term": 6,
+                "mdr_value": 99000,
+                "mdr_type": "Rp",
+                "interest_rate": 2.99,
+                "minimum_amount": 1000000,
+                "maximum_amount": 10000000,
+                "monthly_price": 394781,
+                "os_monthly_price": 394781
+              },
+              {
+                "term": 9,
+                "mdr_value": 99000,
+                "mdr_type": "Rp",
+                "interest_rate": 2.99,
+                "minimum_amount": 1000000,
+                "maximum_amount": 10000000,
+                "monthly_price": 283781,
+                "os_monthly_price": 283781
+              },
+              {
+                "term": 12,
+                "mdr_value": 99000,
+                "mdr_type": "Rp",
+                "interest_rate": 2.99,
+                "minimum_amount": 1000000,
+                "maximum_amount": 10000000,
+                "monthly_price": 228281,
+                "os_monthly_price": 228281
+              }
+            ],
+            "instruction_list": [
+              {
+                "order": 1,
+                "description": "Belanja min. Rp1 juta dan pilih Home Credit sebagai metode pembayaran.",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/hci/ic-onboarding-1.png"
+              },
+              {
+                "order": 2,
+                "description": "Isi formulir pengajuan pembiayaan, lalu tunggu verifikasi paling lambat 2 x 24 jam.",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/hci/ic-onboarding-2.png"
+              },
+              {
+                "order": 3,
+                "description": "Setelah pengajuan disetujui, Home Credit akan memberikan instruksi untuk tanda tangan kontrak pembiayaan secara online.",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/hci/ic-onboarding-3.png"
+              },
+              {
+                "order": 4,
+                "description": "Yay, barang akan otomatis terbayar!",
+                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/hci/ic-onboarding-4.png"
+              }
+            ]
+          }
+        ],
+        "tnc": [
+          {
+            "tnc_id": 1,
+            "tnc_list": [
+              {
+                "order": 1,
+                "description": "Harga cicilan belum termasuk ongkos kirim, biaya admin, dan asuransi."
+              },
+              {
+                "order": 2,
+                "description": "Nominal yang tertera merupakan estimasi."
+              }
+            ]
+          },
+          {
+            "tnc_id": 2,
+            "tnc_list": [
+              {
+                "order": 1,
+                "description": "Harga cicilan belum termasuk ongkos kirim, biaya admin, dan asuransi."
+              },
+              {
+                "order": 2,
+                "description": "Nominal yang tertera merupakan estimasi."
+              },
+              {
+                "order": 3,
+                "description": "Cicilan tidak berlaku untuk pembelian pre order."
+              }
+            ]
+          },
+          {
+            "tnc_id": 3,
+            "tnc_list": [
+              {
+                "order": 1,
+                "description": "Harga cicilan belum termasuk ongkos kirim, biaya admin, dan asuransi."
+              },
+              {
+                "order": 2,
+                "description": "Minimum pembelanjaan berbeda tiap metode pembayaran."
+              }
+            ]
+          }
+        ]
+      },
+      "message": "API Installment Calculation Success"
+    },
+    "ft_installment_recommendation": {
+      "data": {
+        "term": 12,
+        "mdr_value": 1.5,
+        "mdr_type": "%",
+        "interest_rate": 2.9,
+        "minimum_amount": 600000,
+        "maximum_amount": 10000000,
+        "monthly_price": 215695,
+        "os_monthly_price": 215695,
+        "partner_code": "OPL",
+        "partner_name": "OVO PayLater",
+        "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/opl.png"
+      },
+      "message": "API Installment Recommendation Success"
+    }
+  }
+}
