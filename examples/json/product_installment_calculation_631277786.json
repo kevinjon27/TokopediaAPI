@@ -4,46 +4,6 @@
       "data": {
         "credit_card": [
           {
-            "partner_code": "001",
-            "partner_name": "ANZ",
-            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/anz.png",
-            "partner_url": "https://www.tokopedia.com/kartu-kredit/",
-            "tnc_id": 3,
-            "installment_list": [
-              {
-                "term": 3,
-                "mdr_value": 2.5,
-                "mdr_type": "%",
-                "interest_rate": 0,
-                "minimum_amount": 500000,
-                "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
-              },
-              {
-                "term": 6,
-                "mdr_value": 3.5,
-                "mdr_type": "%",
-                "interest_rate": 0,
-                "minimum_amount": 500000,
-                "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
-              },
-              {
-                "term": 12,
-                "mdr_value": 5,
-                "mdr_type": "%",
-                "interest_rate": 0,
-                "minimum_amount": 500000,
-                "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
-              }
-            ],
-            "instruction_list": []
-          },
-          {
             "partner_code": "002",
             "partner_name": "BCA",
             "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/banks/bca.png",
@@ -57,8 +17,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -67,8 +27,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -77,8 +37,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 1000000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -97,8 +57,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -107,8 +67,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -117,8 +77,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -137,8 +97,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -147,8 +107,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -157,8 +117,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 1000000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               },
               {
                 "term": 18,
@@ -167,8 +127,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 3000000,
                 "maximum_amount": 0,
-                "monthly_price": 110775,
-                "os_monthly_price": 110775
+                "monthly_price": 109375,
+                "os_monthly_price": 109375
               },
               {
                 "term": 24,
@@ -177,8 +137,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 3000000,
                 "maximum_amount": 0,
-                "monthly_price": 83082,
-                "os_monthly_price": 83082
+                "monthly_price": 82032,
+                "os_monthly_price": 82032
               }
             ],
             "instruction_list": []
@@ -197,8 +157,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -207,8 +167,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 1000000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -217,8 +177,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 1500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -237,8 +197,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -247,8 +207,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -257,8 +217,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -277,8 +237,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -287,8 +247,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -297,8 +257,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -317,8 +277,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -327,8 +287,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -337,8 +297,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -357,8 +317,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -367,8 +327,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -377,8 +337,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -397,8 +357,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -407,8 +367,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -417,8 +377,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -437,8 +397,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -447,8 +407,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 1000000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -457,8 +417,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 1000000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -477,8 +437,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -487,8 +447,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -497,8 +457,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -517,8 +477,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -527,8 +487,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -537,8 +497,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -557,8 +517,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -567,8 +527,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -577,8 +537,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -597,8 +557,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 1000000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -607,8 +567,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 1000000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -617,8 +577,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 1000000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -637,8 +597,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -647,8 +607,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -657,8 +617,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
@@ -677,8 +637,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 648825,
-                "os_monthly_price": 648825
+                "monthly_price": 640625,
+                "os_monthly_price": 640625
               },
               {
                 "term": 6,
@@ -687,8 +647,8 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 327578,
-                "os_monthly_price": 327578
+                "monthly_price": 323438,
+                "os_monthly_price": 323438
               },
               {
                 "term": 12,
@@ -697,85 +657,14 @@
                 "interest_rate": 0,
                 "minimum_amount": 500000,
                 "maximum_amount": 0,
-                "monthly_price": 166163,
-                "os_monthly_price": 166163
+                "monthly_price": 164063,
+                "os_monthly_price": 164063
               }
             ],
             "instruction_list": []
           }
         ],
         "non_credit_card": [
-          {
-            "partner_code": "OPL",
-            "partner_name": "OVO PayLater",
-            "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/opl.png",
-            "partner_url": "https://www.tokopedia.com/ovo-paylater/",
-            "tnc_id": 1,
-            "installment_list": [
-              {
-                "term": 3,
-                "mdr_value": 1.5,
-                "mdr_type": "%",
-                "interest_rate": 2.9,
-                "minimum_amount": 150000,
-                "maximum_amount": 10000000,
-                "monthly_price": 697566,
-                "os_monthly_price": 697566
-              },
-              {
-                "term": 6,
-                "mdr_value": 1.5,
-                "mdr_type": "%",
-                "interest_rate": 2.9,
-                "minimum_amount": 300000,
-                "maximum_amount": 10000000,
-                "monthly_price": 376319,
-                "os_monthly_price": 376319
-              },
-              {
-                "term": 9,
-                "mdr_value": 1.5,
-                "mdr_type": "%",
-                "interest_rate": 2.9,
-                "minimum_amount": 450000,
-                "maximum_amount": 10000000,
-                "monthly_price": 269236,
-                "os_monthly_price": 269236
-              },
-              {
-                "term": 12,
-                "mdr_value": 1.5,
-                "mdr_type": "%",
-                "interest_rate": 2.9,
-                "minimum_amount": 600000,
-                "maximum_amount": 10000000,
-                "monthly_price": 215695,
-                "os_monthly_price": 215695
-              }
-            ],
-            "instruction_list": [
-              {
-                "order": 1,
-                "description": "Masuk halaman OVO PayLater dan lengkapi formulir pendaftarannya.",
-                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/ic-onboarding-1.png"
-              },
-              {
-                "order": 2,
-                "description": "Tunggu paling lama 24 jam hingga OVO PayLater-mu aktif.",
-                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/ic-onboarding-2.png"
-              },
-              {
-                "order": 3,
-                "description": "Cari barang yang ingin kamu beli, lalu bayar dengan OVO PayLater",
-                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/ic-onboarding-3.png"
-              },
-              {
-                "order": 4,
-                "description": "Yay, barang akan otomatis terbayar!",
-                "ins_image_url": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/ic-onboarding-4.png"
-              }
-            ]
-          },
           {
             "partner_code": "KDV",
             "partner_name": "Kredivo",
@@ -790,8 +679,8 @@
                 "interest_rate": 2,
                 "minimum_amount": 1000000,
                 "maximum_amount": 20000000,
-                "monthly_price": 680475,
-                "os_monthly_price": 680475
+                "monthly_price": 671875,
+                "os_monthly_price": 671875
               },
               {
                 "term": 6,
@@ -800,8 +689,8 @@
                 "interest_rate": 2,
                 "minimum_amount": 1000000,
                 "maximum_amount": 20000000,
-                "monthly_price": 359228,
-                "os_monthly_price": 359228
+                "monthly_price": 354688,
+                "os_monthly_price": 354688
               },
               {
                 "term": 12,
@@ -810,8 +699,8 @@
                 "interest_rate": 2,
                 "minimum_amount": 1000000,
                 "maximum_amount": 20000000,
-                "monthly_price": 198604,
-                "os_monthly_price": 198604
+                "monthly_price": 196094,
+                "os_monthly_price": 196094
               }
             ],
             "instruction_list": [
@@ -846,8 +735,8 @@
                 "interest_rate": 2.99,
                 "minimum_amount": 1000000,
                 "maximum_amount": 10000000,
-                "monthly_price": 727781,
-                "os_monthly_price": 727781
+                "monthly_price": 719063,
+                "os_monthly_price": 719063
               },
               {
                 "term": 6,
@@ -856,8 +745,8 @@
                 "interest_rate": 2.99,
                 "minimum_amount": 1000000,
                 "maximum_amount": 10000000,
-                "monthly_price": 394781,
-                "os_monthly_price": 394781
+                "monthly_price": 390063,
+                "os_monthly_price": 390063
               },
               {
                 "term": 9,
@@ -866,8 +755,8 @@
                 "interest_rate": 2.99,
                 "minimum_amount": 1000000,
                 "maximum_amount": 10000000,
-                "monthly_price": 283781,
-                "os_monthly_price": 283781
+                "monthly_price": 280396,
+                "os_monthly_price": 280396
               },
               {
                 "term": 12,
@@ -876,8 +765,8 @@
                 "interest_rate": 2.99,
                 "minimum_amount": 1000000,
                 "maximum_amount": 10000000,
-                "monthly_price": 228281,
-                "os_monthly_price": 228281
+                "monthly_price": 225563,
+                "os_monthly_price": 225563
               }
             ],
             "instruction_list": [
@@ -957,14 +846,14 @@
         "term": 12,
         "mdr_value": 1.5,
         "mdr_type": "%",
-        "interest_rate": 2.9,
-        "minimum_amount": 600000,
-        "maximum_amount": 10000000,
-        "monthly_price": 215695,
-        "os_monthly_price": 215695,
-        "partner_code": "OPL",
-        "partner_name": "OVO PayLater",
-        "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/opl/opl.png"
+        "interest_rate": 2,
+        "minimum_amount": 1000000,
+        "maximum_amount": 20000000,
+        "monthly_price": 196094,
+        "os_monthly_price": 196094,
+        "partner_code": "KDV",
+        "partner_name": "Kredivo",
+        "partner_icon": "https://ecs7.tokopedia.net/assets-fintech-frontend/pdp/kredivo/kredivo.png"
       },
       "message": "API Installment Recommendation Success"
     }

@@ -14,7 +14,10 @@ if __name__ == '__main__':
 
     print('Client version: {0!s}'.format(client_version))
 
-    api = Client()
+    email = "xxx"
+    password= "xxx"
+
+    api = Client(username=email, password=password)
 
     #  Example command:
     #  python examples/product.py

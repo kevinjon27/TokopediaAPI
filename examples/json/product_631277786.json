@@ -6,13 +6,13 @@
         "shopID": 7152391,
         "name": "Xiaomi Redmi 8 4/64 Garansi Resmi Indonesia 4GB 64GB - Hitam",
         "alias": "xiaomi-redmi-8-4-64-garansi-resmi-indonesia-4gb-64gb-hitam",
-        "price": 1899000,
+        "price": 1875000,
         "priceCurrency": "IDR",
-        "lastUpdatePrice": "15-12-2019, 21:58 WIB",
-        "description": "Ready HITAM, BIRU, MERAH\nORDER > LANGSUNG PROSES KIRIM\n\n- Garansi resmi xiaomi indonesia 2 tahun\n- 100% ORIGINAL\n- BARU, SEGEL, NO REPACK\n- IMEI TERDAFTAR\n\nCek IMEI:\nhttps://imei.kemenperin.go.id/\nhttp://buy.mi.com/id/registration\n\nAyo ayo order gan DIJAMIN ORI dan RESMI\n(Packing AMAN free bubble wrap TEBEL)\n\nXiaomi Redmi 8 RAM 4GB 64GB",
+        "lastUpdatePrice": "05-01-2020, 13:08 WIB",
+        "description": "Ready HITAM 3/32 GB (1 unit)\nBIRU 4/64 GB (kosong)\nHITAM 4/64 GB (kosong)\nMERAH 4/64 GB (kosong)\n\nLANGSUNG ORDER aja gan, manfaatkan kupon cashback tokped \ud83d\ude06\n\n- Garansi resmi xiaomi indonesia 2 tahun\n- 100% ORIGINAL\n- BARU, SEGEL, NO REPACK\n- IMEI TERDAFTAR\n\nCek IMEI:\nhttps://imei.kemenperin.go.id/\nhttp://buy.mi.com/id/registration\n\nYuk order gan DIJAMIN ORI dan RESMI\n(Packing AMAN free bubble wrap TEBEL)\n\nXiaomi Redmi 8 RAM 4GB 64GB",
         "minOrder": 1,
         "maxOrder": 0,
-        "status": "ACTIVE",
+        "status": "WAREHOUSE",
         "weight": 500,
         "weightUnit": "GRAM",
         "condition": "NEW",
@@ -20,7 +20,7 @@
         "isKreasiLokal": false,
         "isMustInsurance": true,
         "isEligibleCOD": false,
-        "catalogID": 0,
+        "catalogID": 57670,
         "needPrescription": false,
         "isLeasing": false
       },
@@ -31,9 +31,9 @@
         "name": ""
       },
       "menu": {
-        "menuID": "22047107",
-        "name": "Smartphone",
-        "url": "https://www.tokopedia.com/randangshop/etalase/smartphone"
+        "menuID": "0",
+        "name": "",
+        "url": ""
       },
       "category": {
         "id": "3054",
@@ -84,15 +84,15 @@
         "percentage": 0
       },
       "stats": {
-        "countView": 76,
-        "countReview": 0,
-        "countTalk": 0,
-        "rating": 0
+        "countView": 1723,
+        "countReview": 4,
+        "countTalk": 5,
+        "rating": 100
       },
       "txStats": {
-        "txSuccess": 0,
+        "txSuccess": 4,
         "txReject": 0,
-        "itemSold": 0
+        "itemSold": 4
       },
       "videos": [],
       "variant": {
@@ -100,15 +100,23 @@
         "isVariant": true
       },
       "stock": {
-        "useStock": true,
-        "value": 1,
-        "stockWording": "<b>Stok hampir habis!</b> Tersisa &lt;5"
+        "useStock": false,
+        "value": 0,
+        "stockWording": ""
       },
       "media": [
         {
           "type": "image",
-          "URLOriginal": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/12/15/631277785/631277785_d4878d0c-830f-4cba-b503-d0386e2a8bbc_1496_1496.jpg",
-          "URLThumbnail": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/12/15/631277785/631277785_d4878d0c-830f-4cba-b503-d0386e2a8bbc_1496_1496.jpg",
+          "URLOriginal": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/12/22/631277785/631277785_05b87bf0-4eef-4a70-baa5-034f18df4859_2048_2047.jpg",
+          "URLThumbnail": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/12/22/631277785/631277785_05b87bf0-4eef-4a70-baa5-034f18df4859_2048_2047.jpg",
+          "Description": "",
+          "VideoURLIOS": "",
+          "IsAutoplay": false
+        },
+        {
+          "type": "image",
+          "URLOriginal": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/12/20/631277785/631277785_6ee16f10-da77-4852-be60-2c500547514d_580_580.jpg",
+          "URLThumbnail": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/12/20/631277785/631277785_6ee16f10-da77-4852-be60-2c500547514d_580_580.jpg",
           "Description": "",
           "VideoURLIOS": "",
           "IsAutoplay": false
