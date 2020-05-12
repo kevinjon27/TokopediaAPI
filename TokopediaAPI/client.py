@@ -66,8 +66,6 @@ class Client(SearchEndpointsMixin, ProductEndpointsMixin, object):
         else:
             self.isLoggedIn = False
 
-        print(self.token)
-
     def checkSettings(self, username):
         if not self.customPath:
             self.GODataPath = os.path.join(
