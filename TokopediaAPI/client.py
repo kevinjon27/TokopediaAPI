@@ -10,7 +10,7 @@ import requests
 
 from .constant import Constant
 from .endpoints import (
-    SearchEndpointsMixin, ProductEndpointsMixin
+    SearchEndpointsMixin, ProductEndpointsMixin, ReksadanaEndpointsMixin
 )
 
 logger = logging.getLogger(__name__)
@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 from .utils import *
 
 
-class Client(SearchEndpointsMixin, ProductEndpointsMixin, object):
+class Client(SearchEndpointsMixin, ProductEndpointsMixin, ReksadanaEndpointsMixin, object):
     def __init__(self, username, password, GODataPath=None):
         self.endpoint = Constant.GRAPHQL_URL
         self.username = username

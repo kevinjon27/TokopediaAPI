@@ -1,4 +1,5 @@
 from .client import Client
+from .constant import Constant
 
 __copyright__ = 'Copyright 2019 by Kevin Jonathan'
 __version__ = '1.0.0'

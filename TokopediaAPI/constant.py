@@ -1,5 +1,6 @@
 class Constant(object):
 
+    TOKOPEDIA_URL = "https://www.tokopedia.com/"
     API_BASE_URL = "https://accounts.tokopedia.com/"
     GRAPHQL_URL = "https://gql.tokopedia.com/"
     ACCOUNT_URL = "https://accounts.tokopedia.com/"
